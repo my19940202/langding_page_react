@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "dev": "node node_modules/webpack-dev-server/bin/webpack-dev-server.js",
-    "dist": "webpack --progress --colors -p && sh clean.sh"
+    "dist": "webpack --progress --colors -p"
   },
   "repository": {
     "type": "git",
