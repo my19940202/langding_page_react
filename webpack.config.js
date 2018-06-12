@@ -49,6 +49,7 @@ module.exports = {
     },
     entry: {
         ecommerce: APP_PATH + '/ecommerce',
+        router: APP_PATH + '/router',
     },
     output: {
         path: BUILD_PATH,
